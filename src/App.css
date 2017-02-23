@@ -1,0 +1,12 @@
+.status {
+  color: white;
+  text-align: center;
+}
+
+.passed {
+  background-color: green;
+}
+
+.failed {
+  background-color: red;
+}

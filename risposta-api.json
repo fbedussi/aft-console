@@ -1,0 +1,40 @@
+{
+    "api": {
+        "stores": [
+            {
+                "name": "margiela",
+                "id": 1
+            },
+            {
+                "name": "brioni",
+                "id": 2
+            }
+        ],
+        "reports": {
+            "1": [
+                {
+                    "date": "1487850614029",
+                    "passed": true,
+                    "link": "path/to/report.html"
+                },
+                {
+                    "date": "1487850618498",
+                    "passed": true,
+                    "link": "path/to/report.html"
+                }
+            ],
+            "2": [
+                {
+                    "date": "1487850694029",
+                    "passed": true,
+                    "link": "path/to/report.html"
+                },
+                {
+                    "date": "1483850618498",
+                    "passed": false,
+                    "link": "path/to/report.html"
+                }
+            ]
+        }
+    }
+}
