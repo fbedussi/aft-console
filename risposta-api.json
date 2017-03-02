@@ -15,11 +15,13 @@
                 {
                     "date": "1487850614029",
                     "passed": true,
+                    "build": "1.0.9.40-H2963403",
                     "link": "path/to/report.html"
                 },
                 {
                     "date": "1487850618498",
-                    "passed": true,
+                    "passed": false,
+                    "build": "1.0.9.40-H2963404",
                     "link": "path/to/report.html"
                 }
             ],
@@ -27,11 +29,13 @@
                 {
                     "date": "1487850694029",
                     "passed": true,
+                    "build": "1.0.9.40-H2963405",
                     "link": "path/to/report.html"
                 },
                 {
                     "date": "1483850618498",
                     "passed": false,
+                    "build": "1.0.9.40-H2963406",
                     "link": "path/to/report.html"
                 }
             ]
